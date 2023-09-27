@@ -1,6 +1,7 @@
 .main-container {
   display: flex;
   flex-direction: column;
+  max-width: 1140px;
   width: 70%;
   background: #fff;
   margin: 5% auto;
