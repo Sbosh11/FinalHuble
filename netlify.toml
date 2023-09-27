@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "https://65142e0b91309a210425807d--chic-gnome-df3404.netlify.app/"
+  to = "https://chic-gnome-df3404.netlify.app/"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+  headers = {X-From = "Netlify"}
+
