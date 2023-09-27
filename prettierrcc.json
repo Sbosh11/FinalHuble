@@ -1,0 +1,11 @@
+{
+  "singleQuote": true,
+  "overides": [
+    {
+      "files": ["*.html", "*.css", "*.cass", "*.less"],
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ]
+}
