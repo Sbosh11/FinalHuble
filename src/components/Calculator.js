@@ -131,6 +131,7 @@ class Calculator extends Component {
               type="text"
               placeholder="Type numbers here"
               value={this.state.input}
+              onChange={(e) => this.updateInputState(e.target.value)}
             />
           </div>
 
