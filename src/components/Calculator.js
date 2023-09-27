@@ -111,7 +111,7 @@ class Calculator extends Component {
           this.setState({ result: result.toString() });
         } else {
           // Error handling logic
-          //Do nothing
+          // Do nothing
         }
       }
     });
@@ -127,7 +127,11 @@ class Calculator extends Component {
         {/* Input field for displaying current input */}
         <div className="section-one">
           <div className="input-field">
-            <input type="text" placeholder="Type numbers here" value="" />
+            <input
+              type="text"
+              placeholder="Type numbers here"
+              value={this.state.input}
+            />
           </div>
 
           {/* Buttons for arithmetic functions */}
@@ -157,7 +161,7 @@ class Calculator extends Component {
 
         <div>
           <p>To clear input press Esc</p>
-          <p>To delete last character press Backspace </p>
+          <p>To delete last character press Backspace</p>
         </div>
       </div>
     );
