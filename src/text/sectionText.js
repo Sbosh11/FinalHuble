@@ -39,7 +39,7 @@ const sectionText = [
     contentText:
       "Access over 250,000 mobile and RON loan signing opportunities each month, gain exposure to 100+ hiring companies, and efficiently manage your business online.",
     buttonText1: "Learn More",
-    buttonLink1: "/https://www.snapdocs.com/join-notary-network",
+    buttonLink1: "https://www.snapdocs.com/join-notary-network",
     buttonText2: "Contact Us",
     buttonLink2: "https://www.snapdocs.com/join-notary-network",
   },
