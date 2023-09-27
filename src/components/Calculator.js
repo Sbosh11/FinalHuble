@@ -127,12 +127,7 @@ class Calculator extends Component {
         {/* Input field for displaying current input */}
         <div className="section-one">
           <div className="input-field">
-            <input
-              type="text"
-              readOnly
-              placeholder="Type numbers here"
-              value=""
-            />
+            <input type="text" placeholder="Type numbers here" value="" />
           </div>
 
           {/* Buttons for arithmetic functions */}
