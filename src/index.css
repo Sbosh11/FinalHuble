@@ -49,6 +49,5 @@ code {
 @font-face {
   font-display: swap;
   font-family: "Gilroy-bold";
-  src: url(https://19578049.fs1.hubspotusercontent-na1.net/hubfs/19578049/Web%20Fonts/Gilroy-Bold.ttf)
-    format("woff");
+  src: url(./fonts/Gilroy-Bold.ttf) format("ttf");
 }

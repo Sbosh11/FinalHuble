@@ -20,7 +20,11 @@ function Navbar() {
           <Link to="/" onClick={closeMenu}>
             Home
           </Link>
-          <button className="nav-toggle" onClick={toggleMenu}>
+          <button
+            className="nav-toggle"
+            aria-label="Toggle Hamburger Menu"
+            onClick={toggleMenu}
+          >
             <span></span>
             <span></span>
             <span></span>

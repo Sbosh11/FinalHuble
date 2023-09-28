@@ -79,6 +79,7 @@ function Accordion() {
                         className="primary-button"
                         target="_blank"
                         rel="noopener noreferrer"
+                        
                       >
                         {
                           sectionText.find((item) => item.key === section.key)
