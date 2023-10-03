@@ -6,7 +6,7 @@ const sectionText = [
       "Simplify the mortgage process for every closing with a powerful pair of products: our award-winning eClose platform and best-in-class eVault.",
     buttonText1: "Learn More",
     buttonLink1: "https://www.snapdocs.com/digital-mortgage-closing-platform",
-    buttonText2: "Reequest Live Demo",
+    buttonText2: "Request Live Demo",
     buttonLink2: "https://www.snapdocs.com/digital-mortgage-closing-platform",
   },
   {
